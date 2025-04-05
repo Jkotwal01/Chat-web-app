@@ -83,7 +83,7 @@ npm run dev
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?w=400&auto=format&fit=crop&q=80" alt="Login Page" width="400"/>
-  <img src="https://images.unsplash.com/photo-1611532736637-13a8bdf96508?w=400&auto=format&fit=crop&q=80" alt="Chat Interface" width="400"/>
+
 </div>
 
 ## 🌈 Theme Customization
